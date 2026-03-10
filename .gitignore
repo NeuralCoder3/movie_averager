@@ -1,0 +1,12 @@
+/target
+contrast2.py
+pyshell.nix
+__pycache__
+venv
+contrast*/
+input/
+output/
+*.1
+*.2
+*.3
+*.4
